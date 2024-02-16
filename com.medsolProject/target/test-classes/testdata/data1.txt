@@ -1,0 +1,16 @@
+first_name=Amar
+last_name=Patil
+email1=amar123@gmail.com
+phone_number=8899774456
+password=987654
+conf_password=987654
+
+No_Remainedbags=10
+Bloodgroup_edit=A+
+Blooddonor_Age=30
+Key_Enter=
+
+Blooddonor_EditName=Arush
+BloodDonationBags=6
+User=user
+User_gmail=@hms.com
