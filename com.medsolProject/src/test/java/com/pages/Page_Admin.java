@@ -19,7 +19,7 @@ public class Page_Admin extends BaseTest {
 	public Page_Admin(WebDriver driver) {
 		this.driver = driver;
 
-	}
+	}//CheckBox Edit 
 
 	BaseTest base = new BaseTest();
 
